@@ -3,3 +3,8 @@ Day 1
 Part 1: 497
 Part 2: 558
 Elapsed: 0.016165 sec
+
+Day 2
+Part 1: 8715
+Part 2: fvstwblgqkhpuixdrnevmaycd
+Elapsed: 0.001339 sec
