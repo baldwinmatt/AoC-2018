@@ -18,6 +18,10 @@ namespace aoc {
             , y{y}
         { }
 
+        static point from_parts(const std::vector<std::string_view>&xy) {
+            return {static_cast<int32_t>(aoc::stoi(xy[0])), static_cast<int32_t>(aoc::stoi(xy[1]))};
+        }
+
         constexpr inline point(point const&) noexcept = default;
         constexpr inline point(point &&) noexcept = default;
         constexpr inline point &operator=(point const&) noexcept = default;

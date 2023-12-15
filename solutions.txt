@@ -8,3 +8,8 @@ Day 2
 Part 1: 8715
 Part 2: fvstwblgqkhpuixdrnevmaycd
 Elapsed: 0.001339 sec
+
+Day 3
+Part 1: 119572
+Part 2: 775
+Elapsed: 0.003629 sec
